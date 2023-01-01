@@ -7,6 +7,10 @@ I am a Software & DevOps Engineer 🧑‍💻 who design, create and maintain a 
 - 💪 I loved to explore all cool graduated projects from [CNCF](https://www.cncf.io/projects/).
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/hafizhahmadzuhdi/) or through my [Website](https://hafizhahmadzuhdi.nl).
 
+[![GitHub](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/hafizhahmadzuhdi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hafizhahmadzuhdi/)
+![Profile Views since 31st December, 2022](https://komarev.com/ghpvc/?username=hafizhahmadzuhdi&color=brightgreen&style=for-the-badge)
+
 ## My Technology Stack Experience
 </br>
 
